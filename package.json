@@ -9,7 +9,7 @@
   "files": [
     "babel.js",
     "webpack.js",
-    "lib/**"
+    "index.js"
   ],
   "scripts": {
     "test": "jest --coverage",
